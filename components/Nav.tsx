@@ -31,6 +31,12 @@ export default function Nav() {
             Services
           </a>
           <a
+            href="#work"
+            className="text-sm text-white/50 hover:text-white transition-colors hidden sm:block"
+          >
+            Work
+          </a>
+          <a
             href="#about"
             className="text-sm text-white/50 hover:text-white transition-colors hidden sm:block"
           >
