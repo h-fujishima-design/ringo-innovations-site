@@ -15,6 +15,7 @@ export default function Home() {
       <main>
         <Hero />
         <Services />
+        <a href="https://vslfrqbbq3ztr4gk.jiem.co.jp/win11kitting.html" target="_blank">Win11 Kitting</a>
         <Work />
         <Why />
         <About />
