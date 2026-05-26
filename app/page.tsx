@@ -15,6 +15,11 @@ export default function Home() {
       <main>
         <Hero />
         <Services />
+        <div className="text-center py-4">
+          <a href="https://vslfrqbbq3ztr4gk.jiem.co.jp/win11kitting.html" target="_blank" rel="noopener noreferrer">
+            https://vslfrqbbq3ztr4gk.jiem.co.jp/win11kitting.html
+          </a>
+        </div>
         <Work />
         <Why />
         <About />
